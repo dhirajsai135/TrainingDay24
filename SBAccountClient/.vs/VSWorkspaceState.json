@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SBAccountClient",
+    "\\SBAccountClient\\Models",
+    "\\SBAccountClient\\Views",
+    "\\SBAccountClient\\Views\\Account",
+    "\\SBAccountClient\\Views\\Home"
+  ],
+  "SelectedNode": "\\SBAccountClient\\Models\\Account.cs",
+  "PreviewInSolutionExplorer": false
+}
